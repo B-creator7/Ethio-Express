@@ -1,34 +1,3 @@
-/*
-ETHIO EXPRESS - COMPLETE ECOMMERCE WEBSITE
-
-HOW TO RUN:
-
-1. Install Node.js from:
-https://nodejs.org
-
-2. Open terminal in project folder
-
-3. Run:
-npm install
-npm install tailwindcss @tailwindcss/vite
-npm run dev
-
-4. Open browser:
-http://localhost:5173
-
-5. Save this file as:
-src/App.jsx
-
-TECH:
-- React
-- Tailwind CSS
-- Responsive Ecommerce UI
-- Shopping Cart
-- Product Filtering
-- Search System
-
-*/
-
 import { useMemo, useState } from 'react';
 
 export default function EcommerceApp() {
